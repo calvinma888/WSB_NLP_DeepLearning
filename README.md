@@ -31,7 +31,6 @@ The r/WallStreetBets (WSB) Reddit community is an online forum in which members 
 ### Built With
 
 * []()Python
-* []()Google Colab
 
 
 <!-- GETTING STARTED -->
@@ -43,10 +42,18 @@ To get a local copy up and running follow these steps.
 
 This is a list of packages that need to be installed before the notebook can be run.
 * tensorflow
-* scikitlearn
+* sklearn
 * PRAW
-* Quandl
-* YFinance
+* quandl
+* yFinance
+* google.colab
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* autokeras
+* scipy
+
 
 ### Installation
 
