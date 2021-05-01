@@ -38,11 +38,11 @@ The r/WallStreetBets (WSB) Reddit community is an online forum in which members 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is a list of packages that need to be installed before the notebook can be run.
 * tensorflow
 * scikitlearn
 * PRAW
