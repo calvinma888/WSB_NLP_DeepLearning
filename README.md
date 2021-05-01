@@ -1,4 +1,4 @@
-# Monetizing WallStreetBets through Short-term Options trading: A Cloud-Based Deep Neural Network and Elastic Net Approach
+# Monetizing WallStreetBets through Short-term Options Trading: A Cloud-Based Deep Neural Network and Elastic Net Approach
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
