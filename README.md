@@ -57,8 +57,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo
-git clone https://github.com/calvinma888/WSB_NLP_DeepLearning.git
+Clone the repo: https://github.com/calvinma888/WSB_NLP_DeepLearning.git
    
 
 <!-- USAGE EXAMPLES -->
